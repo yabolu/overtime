@@ -10,7 +10,6 @@
 2. 编写sendmail检修方案
 3. 应学伟要求测试crontab 关闭sendmail是否需要重启crond, 是否生效
 4. 和ecp2.0项目组联系, 向孙建刚申请阿里云elk外网部署环境
-
 5月16日:
 elk 日志采集研究:
 1. 研究filebeat 数据能否推送到固定的index
